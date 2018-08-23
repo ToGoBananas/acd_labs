@@ -1,0 +1,6 @@
+pandas
+ujson
+cython
+uwsgi
+falcon
+hug
